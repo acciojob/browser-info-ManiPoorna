@@ -2,4 +2,4 @@
 
 document.writeln("You are using "+navigator.appCodeName);  
 document.writeln(" "+navigator.appName);  
-document.writeln(" "+navigator.appVersion);
+document.writeln("Version  "+navigator.appVersion);
